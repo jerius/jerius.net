@@ -1,0 +1,3 @@
+[submodule "themes/heminway2"]
+	path = themes/heminway2
+	url = https://gitlab.com/beli3ver/hemingway2.git
