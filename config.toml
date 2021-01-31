@@ -1,4 +1,20 @@
 baseURL = "https://jerius.net"
 languageCode = "en-us"
-title = "jerius.net"
-theme = "hemingway2"
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+
+[Author]
+    name = "jerius"
